@@ -8,4 +8,4 @@ Name the folder EmailSpamClassifier.
 Navigate to the folder: cd C:\EmailSpamClassifier
 Set up a virtual environment and activate it: env\Scripts\activate
 Run the Python file: python spam_classifier.py
-python spam_classifier.py
+View The Result..
